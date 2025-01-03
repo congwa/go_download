@@ -1,0 +1,8 @@
+logs/*
+allinone
+allinone_*
+build
+version.txt
+*.zip
+*.log
+config.json
