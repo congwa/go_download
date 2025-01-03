@@ -1,13 +1,25 @@
-# go_auto_download
+# Go Auto Download 🚀
 
-go语言自动下载安装包并且执行的工具
+一个 Go 语言自动更新部署工具(对二进制自动执行部署)，支持多平台自动检测、下载和部署。
 
-## 支持的操作系统和架构
+## ✨ 特性
 
-- Linux
-  - AMD64 (x86_64)
-  - ARM64 (aarch64)
-  - ARM
-- macOS (Darwin)
-  - Intel
-  - Apple Silicon
+- 🔄 自动检测和更新程序
+- 🛡️ 安全的加密通信机制
+- 🌐 支持代理下载
+- 📝 完整的日志记录
+- 🔌 智能进程管理
+- ⚡ 快速部署和回滚
+- 🎯 零停机更新
+
+## 🖥️ 支持的平台
+
+### Linux
+- ✅ AMD64 (x86_64)
+- ✅ ARM64 (aarch64)
+- ✅ ARM
+
+### macOS (Darwin)
+- ✅ Intel
+- ✅ Apple Silicon
+
